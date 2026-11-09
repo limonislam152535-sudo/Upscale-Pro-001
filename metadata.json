@@ -1,0 +1,6 @@
+{
+  "name": "Upscale Pro - Cloud-Based AI Image Upscaler",
+  "description": "High-performance cloud image upscaling with 2X, 3X, 4X, 8X, and 16X Lanczos resampling, DPI print targeting, batch processing, and zero local CPU/GPU load.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
